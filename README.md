@@ -22,14 +22,6 @@ This calculator was developed as a learning project to understand how desktop ap
 * Python 3
 * Tkinter (GUI Library)
 
-## 📷 Project Screenshot
-
-Add your calculator screenshot here.
-
-```markdown
-![Calculator Screenshot](screenshot.png)
-```
-
 ## 📂 Project Structure
 
 ```bash
